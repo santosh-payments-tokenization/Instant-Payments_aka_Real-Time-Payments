@@ -251,10 +251,10 @@ The workbook also includes transaction-level examples in which the same message 
 
 | Message ID | Creditor Agent BIC | Amount | Currency | Market | Status | Reason |
 |---|---|---:|---|---|---|---|
-| `PIPT-90281` | `BNPAFRPP` | 2,891.00 | EUR | PT | `RJCT` | `AB06` |
-| `PIPT-90281` | `BNPAFRPP` | 2,891.00 | EUR | PT | `ACSC` | — |
-| `PIPT-90261` | `MONTPTPL ` | 3,184.80 | EUR | PT | `RJCT` | `RC01` |
-| `PIPT-90261` | `MONTPTPL ` | 3,184.80 | EUR | PT | `ACSC` | — |
+| `PIPT-90281` | `XXXAFRPP` | 2,891.00 | EUR | PT | `RJCT` | `AB06` |
+| `PIPT-90281` | `XXXAFRPP` | 2,891.00 | EUR | PT | `ACSC` | — |
+| `PIPT-90261` | `XXXTPTPL ` | 3,184.80 | EUR | PT | `RJCT` | `RC01` |
+| `PIPT-90261` | `XXXTPTPL ` | 3,184.80 | EUR | PT | `ACSC` | — |
 
 The examples are useful for investigating:
 
